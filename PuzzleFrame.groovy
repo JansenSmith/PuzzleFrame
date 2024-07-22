@@ -1,4 +1,4 @@
-CSG puzzle = new Cube(200,200,2.5).toCSG().toZMax()
+CSG puzzle = new Cube(195,195,2.6).toCSG().toZMax()
 CSG bottom = new Cube(210,210,1).toCSG().toZMin()
 			.movez(-5)
 
